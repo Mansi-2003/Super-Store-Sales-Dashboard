@@ -99,7 +99,7 @@ To explore or edit the dashboards:
 ![Super Store Sales Dashboard](./path-to-your-image/Snapshot%20of%20Super%20Sales%20Dashboard.png)
 
 ### 15-Day Sales Forecast:
-![Super Store Sales Forecast](./path-to-your-image/Snapshot%20of%20Super%20Sales%2015%20days%20Forecasting.png)
+![Super Store Sales Forecast](https://github.com/Mansi-2003/Super-Store-Sales-Dashboard/blob/main/Snapshot%20of%20Super%20Sales%2015%20days%20Forecasting.png)
 
 ---
 
